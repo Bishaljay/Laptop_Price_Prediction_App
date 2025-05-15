@@ -26,7 +26,7 @@ A Machine Learning-based web application that predicts the price of a laptop bas
 
 ```
 
-Laptop-Price-Prediction-App/
+Laptop_Price_Prediction_App/
 │
 ├── app.py                # Main application script
 ├── model.pkl             # Trained ML model
@@ -41,7 +41,7 @@ Laptop-Price-Prediction-App/
 
 - The dataset contains specifications of various laptops and their respective prices.
 - Features include: Brand, Processor, RAM, Storage, GPU, Operating System, etc.
-- Dataset source: [Kaggle](https://www.kaggle.com/datasets/muhammadadiltariq/laptops-prices-dataset) (or update with actual source if different)
+- Dataset source: [Github](https://github.com/Bishaljay/Laptop_Price_Prediction_App/blob/main/Dataset/laptop_price.csv)
 
 ## ⚙️ Installation
 
@@ -67,7 +67,3 @@ Using **Streamlit**:
 ```bash
 streamlit run app.py
 ```
-
----
-
-## 📷 Screenshots
